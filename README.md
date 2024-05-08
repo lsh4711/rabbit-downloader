@@ -2,7 +2,8 @@
 
 ---
 
-<span style="font-size: 1.5rem">토끼 다운로드가 유용했다면 스토어 리뷰와 깃허브 상단의 스타 꾸욱 부탁드립니다.</span>  
+<span style="font-size: 1.5rem">토끼 다운로드가 유용했다면 스토어 리뷰와 깃허브 상단의 스타 꾸욱 부탁드립니다.  
+오류 제보와 건의 사항은 [Issues](https://github.com/lsh4711/rabbit-downloader/issues) 탭에 등록해주세요.</span>  
 외주 문의: [dowkwll@naver.com](mailto:dowlwll@naver.com)
 
 ---
