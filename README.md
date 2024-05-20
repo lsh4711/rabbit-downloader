@@ -6,6 +6,9 @@
 오류 제보와 건의 사항은 [Issues](https://github.com/lsh4711/rabbit-downloader/issues) 탭에 등록해주세요.</span>  
 외주 문의: [dowkwll@naver.com](mailto:dowlwll@naver.com)
 
+작품을 다운로드하고 개인적인 목적으로만 소장하지 않거나 공유 시에 법적 처벌을 받을 수 있으므로  
+저작권에 문제가 없는 작품만 개인적인 용도로 보시길 권장 드립니다.
+
 ---
 
 ## 목차
