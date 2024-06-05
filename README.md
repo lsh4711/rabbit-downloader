@@ -169,7 +169,7 @@ abc.zip                 | abc.zip
 
 안내사항, 패치 소식, 문의 내역 등에 대한 알림을 확인할 수 있습니다.
 
-<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/decc404d-6521-4c3a-a8c1-86fb024302c0"  width="50%" />
+<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/ea709691-5dac-47ba-a040-bb1787738eda"  width="50%" />
 
 ### 4.2 1:1 문의
 
@@ -177,7 +177,7 @@ abc.zip                 | abc.zip
 대화 형식으로 문의할 수 있습니다.  
 *구글 계정 연동이 필요합니다.*
 
-<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/decc404d-6521-4c3a-a8c1-86fb024302c0"  width="50%" />
+<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/fef36c65-f67f-4639-afd6-407585fc5da2"  width="50%" />
 
 ## 5. 북마크 화면
 
@@ -185,7 +185,7 @@ abc.zip                 | abc.zip
 이어서 볼 수 있는 북마크 화면이 제공됩니다.  
 토끼 메뉴 버튼을 통해 열 수 있습니다.
 
-<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/decc404d-6521-4c3a-a8c1-86fb024302c0"  width="50%" />
+<img src="https://github.com/lsh4711/rabbit-downloader/assets/120231876/bf85c6d0-73da-4084-bc0c-c5d35f06f001"  width="50%" />
 
 ### 5.1 북마크 추가 및 삭제
 
