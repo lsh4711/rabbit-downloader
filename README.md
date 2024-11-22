@@ -2,7 +2,7 @@
 
 ---
 
-<span style="font-size: 1.5rem">**이 확장 프로그램은 더이상 관리되지 않으며 사용할 수 없습니다.**  
+<span style="font-size: 1.5rem">**이 확장 프로그램은 더이상 관리되지 않고 사용할 수 없습니다.**  
 
 토끼 다운로더가 유용했다면 스토어 리뷰와 깃허브 상단의 스타 꾸욱 부탁드립니다.  
 오류 제보와 건의 사항은 [Issues](https://github.com/lsh4711/rabbit-downloader/issues) 탭에 등록하거나 알림 소식 화면의 1:1 문의 기능을 통해 문의해주세요.</span>  
